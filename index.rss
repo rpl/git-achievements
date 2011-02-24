@@ -2,6 +2,11 @@
 <title>Luca Greco's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
+<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
@@ -17,9 +22,4 @@
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Historian (Level 5)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
-<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Gipsy (Level 2)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
