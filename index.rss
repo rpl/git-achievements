@@ -2,6 +2,8 @@
 <title>Luca Greco's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
@@ -20,6 +22,4 @@
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
